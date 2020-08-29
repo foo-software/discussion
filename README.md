@@ -10,7 +10,7 @@ To start a discussion [open an issue here](https://github.com/foo-software/discu
   - [Open incidents](https://github.com/foo-software/incidents/issues)
   - [Closed incidents](https://github.com/foo-software/incidents/issues?q=is%3Aissue+is%3Aclosed)
 - **[Bugs](https://github.com/foo-software/bugs/issues)**: Did you discover a bug? Open an issue here or review existing ones.
-- **[Features](https://github.com/foo-software/features/issues)**: Have an idea that would really help your workflow? It doesn't hurt to put in a request. We open any ideas, even half-baked.
+- **[Features](https://github.com/foo-software/features/issues)**: Have an idea that would really help your workflow? It doesn't hurt to put in a request. We're open to any ideas, even half-baked.
 
 ## Credits
 
