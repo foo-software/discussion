@@ -6,7 +6,7 @@ To start a discussion [open an issue here](https://github.com/foo-software/discu
 
 ## Resources
 
-- **[Incidents](https://github.com/foo-software/incidents/issues)**: Real-time updates of any incidents. We pride ourselves in highly available services, but in the event of user-impacting issues, we'll post them here.
+- **[Incidents](https://github.com/foo-software/incidents/issues)**: We pride ourselves in highly available services, but in the event of user-impacting issues, we'll post them here. Updates are provided in real-time.
   - [Open incidents](https://github.com/foo-software/incidents/issues)
   - [Closed incidents](https://github.com/foo-software/incidents/issues?q=is%3Aissue+is%3Aclosed)
 - **[Bugs](https://github.com/foo-software/bugs/issues)**: Did you discover a bug? Open an issue here or review existing ones.
